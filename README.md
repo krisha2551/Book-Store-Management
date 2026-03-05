@@ -7,7 +7,7 @@ The API is tested using Postman and deployed on Render.
 
 ---
 
-🚀 Live API
+## 🚀 Live API
 
 https://book-store-management-1-s7uh.onrender.com/
 
@@ -17,7 +17,7 @@ GET /
 
 ---
 
-✨ Features
+## ✨ Features
 
 📚 Create a new book
 
@@ -41,7 +41,7 @@ GET /
 
 ---
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
 | Technology | Usage                 |
 | ---------- | --------------------- |
@@ -55,7 +55,7 @@ GET /
 
 ---
 
-📁 Project Structure
+## 📁 Project Structure
 
 BOOK-STORE-MANAGEMENT<br>
 │<br>
@@ -81,7 +81,7 @@ BOOK-STORE-MANAGEMENT<br>
 
 ---
 
-📌 API Endpoints
+## 📌 API Endpoints
 
 | Method | Endpoint     | Description    |
 | ------ | ------------ | -------------- |
@@ -94,14 +94,16 @@ BOOK-STORE-MANAGEMENT<br>
 
 ---
 
-🧪 API Testing (Postman)
+## 🧪 API Testing (Postman)
 
-📸 Screenshots
+## 📸 Screenshots
+
 
 **Server Check**
 
 
 <img width="1918" height="1020" alt="server-check" src="https://github.com/user-attachments/assets/63b5dc76-fd69-4c04-b952-16686e274fcf" />
+
 
 **Create Book**
 
@@ -117,6 +119,7 @@ BOOK-STORE-MANAGEMENT<br>
 
 **Get Book by ID**
 
+
 <img width="1917" height="1020" alt="get-book-by-id" src="https://github.com/user-attachments/assets/3a536d46-1d25-4155-ab2f-8ed58a3bf403" />
 
 
@@ -129,11 +132,11 @@ BOOK-STORE-MANAGEMENT<br>
 **Delete Book**
 
 
+<img width="1919" height="1024" alt="delete-book" src="https://github.com/user-attachments/assets/4952ecf4-398f-46c8-82a6-f8210e9fbd8a" />
 
----<img width="1919" height="1024" alt="delete-book" src="https://github.com/user-attachments/assets/4952ecf4-398f-46c8-82a6-f8210e9fbd8a" />
+---
 
-
-⚙️ Installation
+## ⚙️ Installation
 
 1️⃣ Clone the repository
 
@@ -164,6 +167,7 @@ node app.js
 Server runs on:
 
 http://localhost:5000
+
 
 
 
