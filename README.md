@@ -106,10 +106,14 @@ BOOK-STORE-MANAGEMENT<br>
 
 
 
+
+
 **Create Book**
 
 
 <img width="1917" height="1021" alt="create-book" src="https://github.com/user-attachments/assets/5516b437-c857-4973-8bfc-975e341b0890" />
+
+
 
 
 **Get All Books**
@@ -118,7 +122,11 @@ BOOK-STORE-MANAGEMENT<br>
 <img width="1916" height="1017" alt="get-books" src="https://github.com/user-attachments/assets/2cbd3f71-4b88-421a-a241-b7f5d11bff39" />
 
 
+
+
 **Get Book by ID**
+
+
 
 
 <img width="1917" height="1020" alt="get-book-by-id" src="https://github.com/user-attachments/assets/3a536d46-1d25-4155-ab2f-8ed58a3bf403" />
@@ -127,7 +135,11 @@ BOOK-STORE-MANAGEMENT<br>
 **Update Book**
 
 
+
+
 <img width="1919" height="1022" alt="update-book" src="https://github.com/user-attachments/assets/b691d3d8-957b-494c-b8a9-46dc85a2bbb0" />
+
+
 
 
 **Delete Book**
@@ -168,6 +180,7 @@ node app.js
 Server runs on:
 
 http://localhost:5000
+
 
 
 
