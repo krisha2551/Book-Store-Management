@@ -5,6 +5,8 @@ This project follows the MVC architecture and supports full CRUD operations for 
 
 The API is tested using Postman and deployed on Render.
 
+---
+
 🚀 Live API
 
 https://book-store-management-1-s7uh.onrender.com/
@@ -12,6 +14,8 @@ https://book-store-management-1-s7uh.onrender.com/
 Test the server:
 
 GET /
+
+---
 
 ✨ Features
 
@@ -35,6 +39,8 @@ GET /
 
 ☁️ Deployment on Render
 
+---
+
 🛠 Tech Stack
 
 | Technology | Usage                 |
@@ -46,6 +52,8 @@ GET /
 | dotenv     | Environment variables |
 | Postman    | API Testing           |
 | Render     | Deployment            |
+
+---
 
 📁 Project Structure
 
@@ -71,6 +79,8 @@ BOOK-STORE-MANAGEMENT<br>
 ├── package.json<br>
 └── README.md<br>
 
+---
+
 📌 API Endpoints
 
 | Method | Endpoint     | Description    |
@@ -82,29 +92,37 @@ BOOK-STORE-MANAGEMENT<br>
 | PATCH  | `/books/:id` | Update book    |
 | DELETE | `/books/:id` | Delete book    |
 
+---
 
 🧪 API Testing (Postman)
 
 📸 Screenshots
 
-Server Check
+**Server Check**
+
 <img src="screenshots/server-check.png" alt="Server Check" width="800"/>
 
-Create Book
+**Create Book**
+
 <img src="screenshots/create-book.png" alt="Create Book" width="800"/>
 
-Get All Books
+**Get All Books**
+
 <img src="screenshots/get-books.png" alt="Get All Books" width="800"/>
 
-Get Book by ID
+**Get Book by ID**
+
 <img src="screenshots/get-book-by-id.png" alt="Get Book by ID" width="800"/>
 
-Update Book
+**Update Book**
+
 <img src="screenshots/update-book.png" alt="Update Book" width="800"/>
 
-Delete Book
+**Delete Book**
+
 <img src="screenshots/delete-book.png" alt="Delete Book" width="800"/>
 
+---
 
 ⚙️ Installation
 
