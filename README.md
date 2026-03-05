@@ -100,29 +100,35 @@ BOOK-STORE-MANAGEMENT<br>
 
 **Server Check**
 
-<img src="screenshots/server-check.png" alt="Server Check" width="800"/>
+
+<img width="1918" height="1020" alt="server-check" src="https://github.com/user-attachments/assets/63b5dc76-fd69-4c04-b952-16686e274fcf" />
 
 **Create Book**
 
-<img src="screenshots/create-book.png" alt="Create Book" width="800"/>
+
+<img width="1917" height="1021" alt="create-book" src="https://github.com/user-attachments/assets/5516b437-c857-4973-8bfc-975e341b0890" />
 
 **Get All Books**
 
-<img src="screenshots/get-books.png" alt="Get All Books" width="800"/>
+
+<img width="1916" height="1017" alt="get-books" src="https://github.com/user-attachments/assets/2cbd3f71-4b88-421a-a241-b7f5d11bff39" />
 
 **Get Book by ID**
 
-<img src="screenshots/get-book-by-id.png" alt="Get Book by ID" width="800"/>
+<img width="1917" height="1020" alt="get-book-by-id" src="https://github.com/user-attachments/assets/3a536d46-1d25-4155-ab2f-8ed58a3bf403" />
+
 
 **Update Book**
 
-<img src="screenshots/update-book.png" alt="Update Book" width="800"/>
+
+<img width="1919" height="1022" alt="update-book" src="https://github.com/user-attachments/assets/b691d3d8-957b-494c-b8a9-46dc85a2bbb0" />
 
 **Delete Book**
 
-<img src="screenshots/delete-book.png" alt="Delete Book" width="800"/>
 
----
+
+---<img width="1919" height="1024" alt="delete-book" src="https://github.com/user-attachments/assets/4952ecf4-398f-46c8-82a6-f8210e9fbd8a" />
+
 
 ⚙️ Installation
 
@@ -155,6 +161,7 @@ node app.js
 Server runs on:
 
 http://localhost:5000
+
 
 
 
